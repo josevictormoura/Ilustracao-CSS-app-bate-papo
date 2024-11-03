@@ -2,7 +2,7 @@
 
 # Ilustração de Bate-Papo CSS
 
-Este projeto é uma demonstração de um aplicativo de bate-papo com um design responsivo e moderno, utilizando HTML e CSS. A aplicação simula um bate-papo entre um usuário e um prestador de serviços, onde o usuário pode ver imagens de cães e enviar mensagens. O design foi inspirado em um desafio da plataforma Frontend Mentor.
+Este projeto é uma demonstração de um aplicativo de bate-papo com um design responsivo e moderno, utilizando HTML e CSS. A aplicação simula um bate-papo entre um usuário e um prestador de serviços, onde o usuário pode ver imagens de cães e enviar mensagens. O design foi inspirado em um desafio da plataforma [Frontend Mentor](https://www.frontendmentor.io/).
 
 ## Demonstração
 
