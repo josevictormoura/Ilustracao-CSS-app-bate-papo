@@ -6,7 +6,7 @@ Este projeto é uma demonstração de um aplicativo de bate-papo com um design r
 
 ## Demonstração
 
-Veja a aplicação em ação através do GitHub Pages: 
+Veja a aplicação em ação através do GitHub Pages: https://josevictormoura.github.io/Ilustracao-CSS-app-bate-papo/
 
 ## Funcionalidades
 
